@@ -39,7 +39,7 @@ I design complex SaaS products — the kind where dense backend systems need to 
 ## Toolkit
 
 **Design** — Figma · Framer · Adobe Creative Suite · Miro  
-**Prototyping & Motion** — Spline · Rive  
+**Motion** — Spline · Rive  
 **Code** — HTML · CSS · JavaScript · React · SwiftUI  
 **AI & Workflow** — Cursor · Claude Code · Notion
 
