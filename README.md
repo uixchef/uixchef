@@ -1,11 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg">
-  <img alt="Sarthak Goyal — Product Designer" src="assets/hero-light.svg" width="100%">
-</picture>
-
-<br>
-
 I design complex SaaS products — the kind where dense backend systems need to become clear, usable software. 5+ years designing end-to-end across AI, payments, MarTech, ecommerce, and fintech — reducing friction, driving clarity, and building systems that scale.
 
 ## What I Design
